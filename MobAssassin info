@@ -1,0 +1,7 @@
+MobAssassin - a light-weight minecraft plugin
+
+Overview:
+-creates a counting system for every mob you kill, accessible with /stacks [mob type]
+-custom item 'Monster Slayer' - named unbreakable sword
+-custom recipe for Monster Slayer or obtainable from /artifact
+-custom GUI for info
